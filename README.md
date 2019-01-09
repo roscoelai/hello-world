@@ -4,6 +4,7 @@ Random stuff goes here:
 
 Read links:
 https://hackernoon.com/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-ben-hamner-27283878cede
+https://github.com/terryum/awesome-deep-learning-papers
 
 Ideas for qPCR project:
 
