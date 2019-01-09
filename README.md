@@ -3,8 +3,10 @@
 Random stuff goes here:
 
 Read links:
+
 https://hackernoon.com/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-ben-hamner-27283878cede
 https://github.com/terryum/awesome-deep-learning-papers
+https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
 
 Ideas for qPCR project:
 
