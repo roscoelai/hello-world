@@ -5,7 +5,8 @@ Random stuff goes here:
 New stuff:
 
 https://laracasts.com  
-https://reactjs.org
+https://reactjs.org  
+YouYube Academind ReactJS Basics
 
 Read links:
 
