@@ -3,8 +3,8 @@
 Random stuff goes here:
 
 New stuff:
-https://laracasts.com
 
+https://laracasts.com  
 https://reactjs.org
 
 Read links:
