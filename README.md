@@ -6,6 +6,7 @@ New stuff:
 
 https://laracasts.com  
 https://reactjs.org  
+https://blog.pursuitofzen.com/developing-data-science-apps-in-python-on-your-android/  
 YouYube Academind ReactJS Basics
 
 Read links:
