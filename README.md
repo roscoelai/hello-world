@@ -7,6 +7,7 @@ New stuff:
 https://laracasts.com  
 https://reactjs.org  
 https://blog.pursuitofzen.com/developing-data-science-apps-in-python-on-your-android/  
+https://hackernoon.com/code-a-react-website-on-your-android-smartphone-or-tablet-like-you-never-imagined-3e56c534f6e7  
 YouYube Academind ReactJS Basics  
 GitHub Pages
 
