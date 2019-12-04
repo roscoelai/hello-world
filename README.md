@@ -6,6 +6,9 @@ GitHub Pages
 https://blog.pursuitofzen.com/developing-data-science-apps-in-python-on-your-android/  
 
 Read links:  
+https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf  
+https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf  
+
 https://github.com/terryum/awesome-deep-learning-papers  
 https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy  
 https://hackernoon.com/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-ben-hamner-27283878cede  
