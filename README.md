@@ -1,20 +1,9 @@
 # hello-world
 ### Random stuff goes here:
 
-Ref:  
-GitHub Pages  
-https://blog.pursuitofzen.com/developing-data-science-apps-in-python-on-your-android/  
+Readings:  
+[Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
+[Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
 
-Read links:  
-https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf  
-https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf  
-
-https://github.com/terryum/awesome-deep-learning-papers  
-https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy  
-https://hackernoon.com/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-ben-hamner-27283878cede  
-
-React (future):  
-https://reactjs.org  
-https://laracasts.com  
-YouYube Academind ReactJS Basics  
-https://hackernoon.com/code-a-react-website-on-your-android-smartphone-or-tablet-like-you-never-imagined-3e56c534f6e7  
+Links:  
+[Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)  
