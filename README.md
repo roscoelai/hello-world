@@ -1,4 +1,4 @@
-# hello-world
+# Read
 
 #### Bash
 - [Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)  
@@ -6,6 +6,9 @@
 - [Advanced Bash-Scripting Guide](http://www6.uniovi.es/LDP/LDP/abs/html/abs-guide.html)  
 - [Bash tips: Colors and formatting (ANSI/VT100 Control sequences)](https://misc.flogisoft.com/bash/tip_colors_and_formatting)  
 - [Shell Command Line Quoting Mechanisms](http://teaching.idallen.com/cst8207/13w/notes/440_quotes.html)
+
+#### Git
+- [Resources to learn Git](http://try.github.io/)  
 
 #### Readings
 - [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
