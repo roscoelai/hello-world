@@ -5,10 +5,18 @@
 - [BashGuide](http://mywiki.wooledge.org/BashGuide)  
 - [Advanced Bash-Scripting Guide](http://www6.uniovi.es/LDP/LDP/abs/html/abs-guide.html)  
 - [Bash tips: Colors and formatting (ANSI/VT100 Control sequences)](https://misc.flogisoft.com/bash/tip_colors_and_formatting)  
-- [Shell Command Line Quoting Mechanisms](http://teaching.idallen.com/cst8207/13w/notes/440_quotes.html)
+- [Shell Command Line Quoting Mechanisms](http://teaching.idallen.com/cst8207/13w/notes/440_quotes.html)  
+- [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  
 - [ShellCheck](https://www.shellcheck.net/)  
 
+#### Python
+- [The Python Standard Library](https://docs.python.org/3/library/)  
+
+#### R
+- [Packages in the standard library](https://stat.ethz.ch/R-manual/R-devel/doc/html/packages.html)  
+
 #### Git
+- [Reference](https://www.git-scm.com/docs)  
 - [Resources to learn Git](http://try.github.io/)  
 
 #### Readings
