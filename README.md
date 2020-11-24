@@ -23,6 +23,7 @@
 - [Resources to learn Git](http://try.github.io/)  
 
 #### Articles
+- [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)
 - [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
 - [Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
@@ -37,3 +38,19 @@
 - [R](https://www.r-project.org/) - [download R-4.0.3-win](https://cran.r-project.org/bin/windows/base/R-4.0.3-win.exe)  
 - [RStudio](https://rstudio.com/) - [download RStudio-1.3.1093](https://download1.rstudio.org/desktop/windows/RStudio-1.3.1093.zip)  
 - [Vim](https://www.vim.org/)  
+
+#### MSYS2 packages
+- git
+- make
+- man
+- mingw-w64-x86_64-diffutils
+- mingw-w64-x86_64-gcc
+- mingw-w64-x86_64-poppler
+- mingw-w64-x86_64-python
+- mingw-w64-x86_64-python-numpy
+- mingw-w64-x86_64-sqlite3
+- openssh
+- rsync
+- tree
+- vim
+- winpty
