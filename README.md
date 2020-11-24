@@ -1,4 +1,18 @@
-## Read
+## Academic
+
+#### How to organize projects
+- [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)  
+
+#### Reproducibility
+- [Peng 2020 - Asymptotics of Reproducibility](https://simplystatistics.org/2020/04/30/asymptotics-of-reproducibility/)  
+
+#### Others
+- [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
+- [Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
+
+
+
+## Technical
 
 #### Bash
 - [Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)  
@@ -20,17 +34,17 @@
 
 #### Git
 - [Reference](https://www.git-scm.com/docs)  
+- [Pro Git](https://git-scm.com/book/en/v2)  
 - [Resources to learn Git](http://try.github.io/)  
-
-#### Articles
-- [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)
-- [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
-- [Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
-- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
-- [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)  
 
 #### Videos
 - [Introduction to OpenMP - Tim Mattson (Intel)](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)  
+
+#### Others
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
+- [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)  
+
+
 
 ## Tools
 - [MSYS2](https://www.msys2.org/) - [download x86_64-20200903](http://repo.msys2.org/distrib/x86_64/msys2-base-x86_64-20200903.tar.xz)  
