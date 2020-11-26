@@ -6,6 +6,9 @@
 #### Reproducibility
 - [Peng 2020 - Asymptotics of Reproducibility](https://simplystatistics.org/2020/04/30/asymptotics-of-reproducibility/)  
 
+#### Performance
+- [Wayne 2019 - Performance Matters](https://www.hillelwayne.com/post/performance-matters/)  
+
 #### Others
 - [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
 - [Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
