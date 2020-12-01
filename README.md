@@ -9,6 +9,9 @@
 #### Performance
 - [Wayne 2019 - Performance Matters](https://www.hillelwayne.com/post/performance-matters/)  
 
+#### Writing
+- [Pinker 2014 - Why Academics Stink at Writing](https://stevenpinker.com/files/pinker/files/why_academics_stink_at_writing.pdf)  
+
 #### Others
 - [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
 - [Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
@@ -28,6 +31,7 @@
 
 #### Python
 - [The Python Standard Library](https://docs.python.org/3/library/)  
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 
 #### R
 - [Packages in the standard library](https://stat.ethz.ch/R-manual/R-devel/doc/html/packages.html)  
