@@ -3,6 +3,9 @@
 #### How to organize projects
 - [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)  
 
+#### Keep an eye on the future
+- [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)  
+
 #### Reproducibility
 - [Peng 2020 - Asymptotics of Reproducibility](https://simplystatistics.org/2020/04/30/asymptotics-of-reproducibility/)  
 
