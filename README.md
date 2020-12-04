@@ -2,6 +2,7 @@
 
 #### How to organize projects
 - [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)  
+- [Wilson 2014 - Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)  
 
 #### Keep an eye on the future
 - [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)  
@@ -15,9 +16,13 @@
 #### Writing
 - [Pinker 2014 - Why Academics Stink at Writing](https://stevenpinker.com/files/pinker/files/why_academics_stink_at_writing.pdf)  
 
-#### Others
+#### History
 - [Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  
 - [Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)  
+
+#### Others
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
+- [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)  
 
 
 
@@ -50,10 +55,6 @@
 #### Videos
 - [Introduction to OpenMP - Tim Mattson (Intel)](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)  
 
-#### Others
-- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
-- [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)  
-
 
 
 ## Tools
@@ -72,6 +73,7 @@
 - mingw-w64-x86_64-poppler
 - mingw-w64-x86_64-python
 - mingw-w64-x86_64-python-numpy
+- mingw-w64-x86_64-rust
 - mingw-w64-x86_64-sqlite3
 - openssh
 - rsync
