@@ -36,6 +36,7 @@
 - [Shell Command Line Quoting Mechanisms](http://teaching.idallen.com/cst8207/13w/notes/440_quotes.html)  
 - [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  
 - [ShellCheck](https://www.shellcheck.net/)  
+- [explainshell.com](https://explainshell.com/)  
 
 #### Python
 - [The Python Standard Library](https://docs.python.org/3/library/)  
