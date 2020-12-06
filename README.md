@@ -4,14 +4,17 @@
 - [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)  
 - [Wilson 2014 - Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)  
 
-#### Keep an eye on the future
-- [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)  
+#### Dependencies
+- [Lightweight is the right weight](http://www.tinyverse.org/)  
 
 #### Reproducibility
 - [Peng 2020 - Asymptotics of Reproducibility](https://simplystatistics.org/2020/04/30/asymptotics-of-reproducibility/)  
 
 #### Performance
 - [Wayne 2019 - Performance Matters](https://www.hillelwayne.com/post/performance-matters/)  
+
+#### Keep an eye on the future
+- [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)  
 
 #### Writing
 - [Pinker 2014 - Why Academics Stink at Writing](https://stevenpinker.com/files/pinker/files/why_academics_stink_at_writing.pdf)  
@@ -44,6 +47,7 @@
 
 #### R
 - [Packages in the standard library](https://stat.ethz.ch/R-manual/R-devel/doc/html/packages.html)  
+- [Function reference • data.table](https://rdatatable.gitlab.io/data.table/reference/index.html)  
 - [R for Data Science](https://r4ds.had.co.nz/index.html)  
 - [Advanced R](https://adv-r.hadley.nz/)  
 - [R Packages](https://r-pkgs.org/)  
@@ -59,10 +63,10 @@
 
 
 ## Tools
-- [MSYS2](https://www.msys2.org/) - [download x86_64-20200903](http://repo.msys2.org/distrib/x86_64/msys2-base-x86_64-20200903.tar.xz)  
-- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - [download latest-Windows-x86_64](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)  
-- [R](https://www.r-project.org/) - [download R-4.0.3-win](https://cran.r-project.org/bin/windows/base/R-4.0.3-win.exe)  
-- [RStudio](https://rstudio.com/) - [download RStudio-1.3.1093](https://download1.rstudio.org/desktop/windows/RStudio-1.3.1093.zip)  
+- [MSYS2](https://www.msys2.org/) - [[msys2-base-x86_64-20201109.tar.xz]](http://repo.msys2.org/distrib/x86_64/msys2-base-x86_64-20201109.tar.xz)  
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - [[Miniconda3-latest-Windows-x86_64.exe]](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)  
+- [R](https://www.r-project.org/) - [[R-4.0.3-win.exe]](https://cran.r-project.org/bin/windows/base/R-4.0.3-win.exe)  
+- [RStudio](https://rstudio.com/) - [[RStudio-1.3.1093.zip]](https://download1.rstudio.org/desktop/windows/RStudio-1.3.1093.zip)  
 - [Vim](https://www.vim.org/)  
 
 #### MSYS2 packages
