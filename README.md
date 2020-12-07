@@ -63,6 +63,7 @@
 
 
 ## Tools
+- [Git for Windows SDK](https://gitforwindows.org/) - [[git-sdk-installer-1.0.8-64.7z.exe]](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.8/git-sdk-installer-1.0.8-64.7z.exe)  
 - [MSYS2](https://www.msys2.org/) - [[msys2-base-x86_64-20201109.tar.xz]](http://repo.msys2.org/distrib/x86_64/msys2-base-x86_64-20201109.tar.xz)  
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - [[Miniconda3-latest-Windows-x86_64.exe]](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)  
 - [R](https://www.r-project.org/) - [[R-4.0.3-win.exe]](https://cran.r-project.org/bin/windows/base/R-4.0.3-win.exe)  
