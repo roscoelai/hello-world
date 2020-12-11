@@ -48,6 +48,7 @@
 #### R
 - [Packages in the standard library](https://stat.ethz.ch/R-manual/R-devel/doc/html/packages.html)  
 - [Function reference • data.table](https://rdatatable.gitlab.io/data.table/reference/index.html)  
+- [Efficient R programming](https://csgillespie.github.io/efficientR/)  
 - [R for Data Science](https://r4ds.had.co.nz/index.html)  
 - [Advanced R](https://adv-r.hadley.nz/)  
 - [R Packages](https://r-pkgs.org/)  
