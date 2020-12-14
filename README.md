@@ -13,6 +13,10 @@
 #### Performance
 - [Wayne 2019 - Performance Matters](https://www.hillelwayne.com/post/performance-matters/)  
 
+#### Representation of dates and times
+- [Kuhn 1995 - A summary of the international standard date and time notation](https://www.cl.cam.ac.uk/~mgk25/iso-time.html)  
+- [ISO 8601 - Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)  
+
 #### Keep an eye on the future
 - [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)  
 
@@ -31,7 +35,7 @@
 
 ## Technical
 
-#### Bash
+#### Shell
 - [Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)  
 - [BashGuide](http://mywiki.wooledge.org/BashGuide)  
 - [Advanced Bash-Scripting Guide](http://www6.uniovi.es/LDP/LDP/abs/html/abs-guide.html)  
@@ -64,12 +68,15 @@
 
 
 ## Tools
-- [Git for Windows SDK](https://gitforwindows.org/) - [[git-sdk-installer-1.0.8-64.7z.exe]](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.8/git-sdk-installer-1.0.8-64.7z.exe)  
-- [MSYS2](https://www.msys2.org/) - [[msys2-base-x86_64-20201109.tar.xz]](http://repo.msys2.org/distrib/x86_64/msys2-base-x86_64-20201109.tar.xz)  
-- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - [[Miniconda3-latest-Windows-x86_64.exe]](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)  
-- [R](https://www.r-project.org/) - [[R-4.0.3-win.exe]](https://cran.r-project.org/bin/windows/base/R-4.0.3-win.exe)  
-- [RStudio](https://rstudio.com/) - [[RStudio-1.3.1093.zip]](https://download1.rstudio.org/desktop/windows/RStudio-1.3.1093.zip)  
-- [Vim](https://www.vim.org/)  
+
+URL | Download
+:- | :-
+[Git for Windows SDK](https://gitforwindows.org/) | [git-sdk-installer-1.0.8-64.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.8/git-sdk-installer-1.0.8-64.7z.exe)
+[MSYS2](https://www.msys2.org/) | [msys2-base-x86_64-20201109.tar.xz](http://repo.msys2.org/distrib/x86_64/msys2-base-x86_64-20201109.tar.xz)
+[Miniconda](https://docs.conda.io/en/latest/miniconda.html) | [Miniconda3-latest-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+[R](https://www.r-project.org/) | [R-4.0.3-win.exe](https://cran.r-project.org/bin/windows/base/R-4.0.3-win.exe)
+[RStudio](https://rstudio.com/) | [RStudio-1.3.1093.zip](https://download1.rstudio.org/desktop/windows/RStudio-1.3.1093.zip)
+[Vim](https://www.vim.org/)
 
 #### MSYS2 packages
 - git
