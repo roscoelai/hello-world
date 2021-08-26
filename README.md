@@ -25,6 +25,10 @@
 - [[PDF] Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 - [[PDF] Eghbal 2016 - Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)
 
+### Security
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [SSL Server Test](https://www.ssllabs.com/ssltest/)
+
 ### Others
 - [Spolsky 2002 - The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 - [Peng 2020 - Asymptotics of Reproducibility](https://simplystatistics.org/2020/04/30/asymptotics-of-reproducibility/)
@@ -86,6 +90,6 @@
 
 ### vim regex lazy/non-greedy match
 
-- `.\{-}` (equivalent to `.*?`
+- `.\{-}` (equivalent to `.*?`)
 - See `:help non-greedy`
 - [[stackoverflow] How can I make my match non greedy in vim?](https://stackoverflow.com/a/1305957)
