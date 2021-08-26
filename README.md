@@ -17,9 +17,8 @@
 - [List of ISO 639-1 codes - Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 ### Ethics
-
-- [[YouTube] Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering](https://www.youtube.com/watch?v=0wtvQZijPzg)
 - [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+- [[YouTube] Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering](https://www.youtube.com/watch?v=0wtvQZijPzg)
 
 ### Legacy
 - [[PDF] Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
@@ -35,6 +34,7 @@
 - [Lightweight is the right weight](http://www.tinyverse.org/)
 - [Wayne 2019 - Performance Matters](https://www.hillelwayne.com/post/performance-matters/)
 - [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
+- [[YouTube] Matlab to Julia: Hours to Minutes for MRI Image Analysis | Jonathan Doucette | JuliaCon2021](https://www.youtube.com/watch?v=6OxsK2R5VkA)
 
 <hr />
 
