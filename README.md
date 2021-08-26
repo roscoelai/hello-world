@@ -79,3 +79,13 @@
 ### Videos
 - [[YouTube] Introduction to OpenMP - Tim Mattson (Intel)](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
 - [[YouTube] So You Want to be a Data Scientist?](https://www.youtube.com/watch?v=6VO_CTtGlnk)
+
+<hr />
+
+## Random questions
+
+### vim regex lazy/non-greedy match
+
+- `.\{-}` (equivalent to `.*?`
+- See `:help non-greedy`
+- [[stackoverflow] How can I make my match non greedy in vim?](https://stackoverflow.com/a/1305957)
