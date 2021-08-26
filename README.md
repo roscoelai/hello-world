@@ -1,4 +1,8 @@
-## Readings - General
+# Random collection of links
+
+<hr />
+
+## Readings
 
 ### Project organization
 - [Nobel 2009 - A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424)
@@ -10,7 +14,12 @@
 - [Kuhn 1995 - A summary of the international standard date and time notation](https://www.cl.cam.ac.uk/~mgk25/iso-time.html)
 - [The Mathematics of the ISO 8601 Calendar](https://webspace.science.uu.nl/~gent0113/calendar/isocalendar.htm)
 - [ISO 8601 - Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
-- [List of ISO 639-1 codes = Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+- [List of ISO 639-1 codes - Wikipedia](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+
+### Ethics
+
+- [[YouTube] Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering](https://www.youtube.com/watch?v=0wtvQZijPzg)
+- [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 
 ### Legacy
 - [[PDF] Donoho 2015 - 50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
@@ -22,6 +31,8 @@
 - [Lightweight is the right weight](http://www.tinyverse.org/)
 - [Wayne 2019 - Performance Matters](https://www.hillelwayne.com/post/performance-matters/)
 - [Perkel 2020 - Why scientists are turning to Rust](https://www.nature.com/articles/d41586-020-03382-2)
+
+<hr />
 
 ## Technical
 
