@@ -105,9 +105,9 @@
 - Actively used and quite comfortable (but don't know how deep the rabbit hole goes...)
   - Bash, Miniconda, RStudio, Vim
 - Forced by circumstances
-  - ffmpeg, HTML/CSS, imagemagick, JavaScript, pngquant, poppler, rsync
+  - FFmpeg, HTML/CSS, ImageMagick, JavaScript, pngquant, Poppler, rsync
 - Forced by self
-  - Git, Make, SQLite
+  - Git, Make, Screen, SQLite
 - Helpful
   - bat, cargo-update, du-dust, fclones, fd-find
 - Wish list
